@@ -1,0 +1,79 @@
+运行消息:[2016-04-13 20:49:25:223] CameraTime:[2016-04-13 20:49:04 240] nLightID=0, th = 143, MaxTh = 50, method1 = 0_STRENGTHEN_FAILED 143_
+运行消息:[2016-04-13 20:49:25:416] CameraTime:[2016-04-13 20:49:04 306] nLightID=0, new th = 26, MaxTh = 52, +0+2+4+6method1 = 0_STRENGTHEN_FAILED 26_
+运行消息:[2016-04-13 20:50:52:477] CameraTime:[2016-04-13 20:50:31 418] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 20:51:37:964] CameraTime:[2016-04-13 20:51:16 951] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 20:52:19:539] CameraTime:[2016-04-13 20:51:58 541] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 20:52:19:539] CameraTime:[2016-04-13 20:51:58 553] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 20:53:46:681] CameraTime:[2016-04-13 20:53:25 649] nLightID=0, new th = 30, MaxTh = 58, +0+2+4method1 = 0_STRENGTHEN_FAILED 30_
+运行消息:[2016-04-13 20:53:46:682] CameraTime:[2016-04-13 20:53:25 689] nLightID=0, new th = 36, MaxTh = 64, +0method1 = 0_STRENGTHEN_FAILED 36_
+运行消息:[2016-04-13 20:55:14:002] CameraTime:[2016-04-13 20:54:52 827] nLightID=0, th = 144, MaxTh = 52, method1 = 0_STRENGTHEN_FAILED 144_
+运行消息:[2016-04-13 20:56:40:981] CameraTime:[2016-04-13 20:56:19 964] nLightID=0, th = 145, MaxTh = 55, method1 = 0_STRENGTHEN_FAILED 145_
+运行消息:[2016-04-13 20:56:41:182] CameraTime:[2016-04-13 20:56:19 977] nLightID=0, 1threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 20:57:26:684] CameraTime:[2016-04-13 20:57:05 554] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 20:57:26:685] CameraTime:[2016-04-13 20:57:05 573] nLightID=0, s = 2.280612 NR=4 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 20:58:08:170] CameraTime:[2016-04-13 20:57:47 109] nLightID=0, th = 147, MaxTh = 50, method1 = 0_STRENGTHEN_FAILED 147_
+运行消息:[2016-04-13 20:58:08:180] CameraTime:[2016-04-13 20:57:47 170] nLightID=0, 1threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 20:59:35:360] CameraTime:[2016-04-13 20:59:14 255] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:00:20:931] CameraTime:[2016-04-13 20:59:59 803] nLightID=0, s = 2.032408 NR=4 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:01:00:878] CameraTime:[2016-04-13 21:00:39 672] nLightID=0, +25method1 = 0_
+运行消息:[2016-04-13 21:01:01:180] CameraTime:[2016-04-13 21:00:40 069] nLightID=0, th = 146, MaxTh = 174, +0+2+4+6+8+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:01:01:880] CameraTime:[2016-04-13 21:00:40 663] nLightID=0, th = 166, MaxTh = 194, +0+2+4+6+8+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:01:02:511] CameraTime:[2016-04-13 21:00:41 381] nLightID=0, new th = 24, MaxTh = 52, +0+2+4+6+8method1 = 0_STRENGTHEN_FAILED 24_
+运行消息:[2016-04-13 21:01:02:512] CameraTime:[2016-04-13 21:00:41 446] nLightID=0, new th = 57, MaxTh = 85, +0+2+4+6+8+10method1 = 0_
+运行消息:[2016-04-13 21:01:47:971] CameraTime:[2016-04-13 21:01:26 957] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:02:29:724] CameraTime:[2016-04-13 21:02:08 524] nLightID=0, th = 140, MaxTh = 41, method1 = 0_STRENGTHEN_FAILED 140_
+运行消息:[2016-04-13 21:02:29:725] CameraTime:[2016-04-13 21:02:08 585] nLightID=0, 1threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:03:56:934] CameraTime:[2016-04-13 21:03:35 711] nLightID=0, th = 139, MaxTh = 41, method1 = 0_STRENGTHEN_FAILED 139_
+运行消息:[2016-04-13 21:05:23:881] CameraTime:[2016-04-13 21:05:02 844] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:05:24:042] CameraTime:[2016-04-13 21:05:02 858] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:06:51:019] CameraTime:[2016-04-13 21:06:29 983] nLightID=0, new th = 28, MaxTh = 44, +0method1 = 0_STRENGTHEN_FAILED 28_
+运行消息:[2016-04-13 21:08:18:181] CameraTime:[2016-04-13 21:07:57 110] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:08:18:183] CameraTime:[2016-04-13 21:07:57 149] nLightID=0, th = 151, MaxTh = 81, method1 = 0_STRENGTHEN_FAILED 151_
+运行消息:[2016-04-13 21:09:43:758] CameraTime:[2016-04-13 21:09:22 681] nLightID=0, th = 159, MaxTh = 187, +0+2+4+6+8+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:09:45:343] CameraTime:[2016-04-13 21:09:24 233] nLightID=0, th = 153, MaxTh = 68, method1 = 0_STRENGTHEN_FAILED 153_
+运行消息:[2016-04-13 21:09:45:344] CameraTime:[2016-04-13 21:09:24 302] nLightID=0, 1threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:10:30:879] CameraTime:[2016-04-13 21:10:09 812] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:10:31:061] CameraTime:[2016-04-13 21:10:09 881] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:11:12:671] CameraTime:[2016-04-13 21:10:51 425] nLightID=0, new th = 114, MaxTh = 142, +0+2+4+6+8th = 142, MaxTh = 170, +0+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:12:39:805] CameraTime:[2016-04-13 21:12:18 554] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:14:06:896] CameraTime:[2016-04-13 21:13:45 686] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:14:06:897] CameraTime:[2016-04-13 21:13:45 751] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:15:33:939] CameraTime:[2016-04-13 21:15:12 859] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:15:33:940] CameraTime:[2016-04-13 21:15:12 875] nLightID=0, th = 149, MaxTh = 72, method1 = 0_STRENGTHEN_FAILED 149_
+运行消息:[2016-04-13 21:17:01:053] CameraTime:[2016-04-13 21:16:39 991] nLightID=0, th = 140, MaxTh = 103, method1 = 0_STRENGTHEN_FAILED 140_
+运行消息:[2016-04-13 21:17:01:203] CameraTime:[2016-04-13 21:16:40 007] nLightID=0, 1threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:17:46:646] CameraTime:[2016-04-13 21:17:25 577] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:17:46:786] CameraTime:[2016-04-13 21:17:25 592] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:18:28:203] CameraTime:[2016-04-13 21:18:07 111] nLightID=0, th = 160, MaxTh = 44, method1 = 0_STRENGTHEN_FAILED 160_
+运行消息:[2016-04-13 21:18:28:363] CameraTime:[2016-04-13 21:18:07 154] nLightID=0, new th = 22, MaxTh = 46, +0+2+4+6+8method1 = 0_STRENGTHEN_FAILED 22_
+运行消息:[2016-04-13 21:19:13:765] CameraTime:[2016-04-13 21:18:52 692] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_th = 156, MaxTh = 184, +0
+运行消息:[2016-04-13 21:19:55:408] CameraTime:[2016-04-13 21:19:34 292] nLightID=0, th = 154, MaxTh = 43, method1 = 0_STRENGTHEN_FAILED 154_
+运行消息:[2016-04-13 21:19:55:409] CameraTime:[2016-04-13 21:19:34 306] nLightID=0, new th = 22, MaxTh = 42, +0+2+4+6+8method1 = 0_STRENGTHEN_FAILED 22_
+运行消息:[2016-04-13 21:21:22:591] CameraTime:[2016-04-13 21:21:01 411] nLightID=0, new th = 23, MaxTh = 45, +0+2+4method1 = 0_STRENGTHEN_FAILED 23_
+运行消息:[2016-04-13 21:21:22:593] CameraTime:[2016-04-13 21:21:01 436] nLightID=0, new th = 22, MaxTh = 39, +0+2+4+6method1 = 0_STRENGTHEN_FAILED 22_
+运行消息:[2016-04-13 21:22:48:596] CameraTime:[2016-04-13 21:22:27 349] nLightID=0, th = 139, MaxTh = 167, +0+2+4+6+8+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:22:49:688] CameraTime:[2016-04-13 21:22:28 546] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:22:49:689] CameraTime:[2016-04-13 21:22:28 609] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:23:35:316] CameraTime:[2016-04-13 21:23:14 123] nLightID=0, s = 2.199029 NR=4 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:24:16:959] CameraTime:[2016-04-13 21:23:55 722] nLightID=0, th = 150, MaxTh = 41, method1 = 0_STRENGTHEN_FAILED 150_
+运行消息:[2016-04-13 21:24:16:959] CameraTime:[2016-04-13 21:23:55 735] nLightID=0, 1threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:25:02:502] CameraTime:[2016-04-13 21:24:41 297] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:25:37:742] CameraTime:[2016-04-13 21:25:16 621] nLightID=0, th = 142, MaxTh = 161, +0method1 = 0_
+运行消息:[2016-04-13 21:25:37:932] CameraTime:[2016-04-13 21:25:16 690] nLightID=0, new th = 68, MaxTh = 96, +0+2+4+6+8+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:25:37:933] CameraTime:[2016-04-13 21:25:16 711] nLightID=0, new th = 78, MaxTh = 106, +0+2+4+6+8+10+12+17+25method1 = 0_
+运行消息:[2016-04-13 21:25:43:946] CameraTime:[2016-04-13 21:25:22 835] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:25:44:148] CameraTime:[2016-04-13 21:25:22 867] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:27:11:245] CameraTime:[2016-04-13 21:26:50 006] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:27:11:246] CameraTime:[2016-04-13 21:26:50 019] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:28:38:268] CameraTime:[2016-04-13 21:28:17 141] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:28:38:268] CameraTime:[2016-04-13 21:28:17 158] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:30:05:497] CameraTime:[2016-04-13 21:29:44 285] nLightID=0, th = 139, MaxTh = 41, method1 = 0_STRENGTHEN_FAILED 139_
+运行消息:[2016-04-13 21:31:32:651] CameraTime:[2016-04-13 21:31:11 468] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:31:32:652] CameraTime:[2016-04-13 21:31:11 399] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:32:59:701] CameraTime:[2016-04-13 21:32:38 570] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:34:26:852] CameraTime:[2016-04-13 21:34:05 692] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:34:27:062] CameraTime:[2016-04-13 21:34:05 756] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:35:12:458] CameraTime:[2016-04-13 21:34:51 275] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:35:12:459] CameraTime:[2016-04-13 21:34:51 342] nLightID=0, s = 0.000000 NR=0 STRENGTHEN_NO_HALO_
+运行消息:[2016-04-13 21:35:54:035] CameraTime:[2016-04-13 21:35:32 891] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
+运行消息:[2016-04-13 21:35:54:036] CameraTime:[2016-04-13 21:35:32 853] nLightID=0, 2threshould = -1 nWhiteCount=0 STRENGTHEN_NO_CENTER_
